@@ -2,7 +2,7 @@
 
 Code Refractor
 
-In the assigment I have applied Semantic Code to the starter code given as the refactor code. The title I gave the repository is Challenge-1 and the website I named it is Run-Buddy.
+In the assigment I have applied Semantic Code to the starter code given as the refactor code. The title I gave the repository is Challenge-1 and the website I named it is Run-Buddy. And the code is in sequential order that follows accesibility standards.
 
 
 Here are the following information required containing (Repository contains quality README file with description, screenshot, and link to deployed application.) :
